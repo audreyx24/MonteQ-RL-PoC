@@ -1,4 +1,4 @@
-# rl_monteq — RL-augmented rollout for MonteQ
+# rl_monteq — Behaviour Cloning PoC for RL-augmented rollout for MonteQ
 
 Proof-of-concept that replaces MonteQ's hand-coded greedy rollout
 (`mcts_module.rollout_policy`) with a small learned policy/value network
